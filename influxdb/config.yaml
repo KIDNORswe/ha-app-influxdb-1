@@ -1,8 +1,8 @@
 ---
 name: InfluxDB
-version: dev
+version: 5.0.2
 slug: influxdb
-description: Scalable datastore for metrics, events, and real-time analytics
+description: Scalable datastore for metrics, events, and real-time analytics. Discrapped in August 2026. This version is a fork and repository created for a local install to continue to run Influx DB version 1.8.5
 url: https://github.com/KIDNORswe/ha-app-influxdb-1
 codenotary: codenotary@frenck.dev
 ingress: true
