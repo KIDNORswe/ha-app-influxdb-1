@@ -21,11 +21,11 @@ Data Explorer.
 
 ## Installation
 
-`! NOTE !` The installation is changed due to the original being scrapped.
+`! NOTE !` The way to install has changed due to the scrapped original version. Now it comes from another dedicated repo.
 
-**Note-repositorie**: This app is now a fork and moved over to another repositorie.
+**Note-repository**: This app is now a fork and moved over to another private repository.
 
-**Note-manual-action**:  The repositorie is new and has to be added manually.
+**Note-manual-action**:  The repo is different and has to be added manually to the app-store.
 
 ## Configuration
 
