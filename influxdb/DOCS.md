@@ -1,6 +1,6 @@
 # APP FOR HA: InfluxDB v 1 (Norrväna)
 
-[(https://img.shields.io/badge/USE-SPECIFIC)]
+!(https://img.shields.io/badge/USE-SPECIFIC)]
 
 `! NOTE !` The original add-on has been scrapped and will no longer be maintained. 
 
