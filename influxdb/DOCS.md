@@ -2,9 +2,9 @@
 
 `! NOTE !` The original add-on has been scrapped and will no longer be maintained. 
 
-![github](https://img.shields.io/badge/REPOSITORY_KIDNORswe107C10,svg?style=plastic&logo=github)
+![dbinflux](https://img.shields.io/badge/DATEABASE-INFLUXDB-brightgreen?style=for-the-badge)
 
-![test](https://img.shields.io/badge/DATEABASE-INFLUXDB-brightgreen?style=for-the-badge)
+![from](https://img.shields.io/badge/REPOSITORY-KIDNORswe-orange?style=for-the-badge)
 
 ## InfluxDB 
 is an open source time series database optimized for high-write-volume.
