@@ -14,6 +14,7 @@ From the "Home Assistant Community Add-on: InfluxDB"
 Scalable datastore for metrics, events, and real-time analytics.
 
 Release v 5.0.2
+
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
 ![Supports armhf Architecture][armhf-shield]
