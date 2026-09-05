@@ -1,5 +1,7 @@
 # APP FOR HA: InfluxDB v 1 (Norrväna)
 
+![github](https://img.shields.io/badge/github-repo-blue?logo=github)
+
 `! NOTE !` The original add-on has been scrapped and will no longer be maintained. 
 
 ![dbinflux](https://img.shields.io/badge/DATEABASE-INFLUXDB-brightgreen?style=for-the-badge)
