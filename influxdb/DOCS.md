@@ -1,13 +1,13 @@
-# Home Assistant Community APP: InfluxDB
+# APP FOR HA: InfluxDB v 1 (Norrväna)
 
-The original add-on has been scrapped and will no longer be maintained. 
+`! NOTE !` The original add-on has been scrapped and will no longer be maintained. 
 
-InfluxDB is an open source time series database optimized for high-write-volume.
-It's useful for recording metrics, sensor data, events,
-and performing analytics. It exposes an HTTP API for client interaction and is
-often used in combination with Grafana to visualize the data.
+## InfluxDB 
+is an open source time series database optimized for high-write-volume.
+It's useful for recording metrics, sensor data, events, and performing analytics. 
+It exposes an HTTP API for client interaction and is often used in combination with Grafana to visualize the data.
 
-This app comes with Chronograf & Kapacitor pre-installed. 
+**This app comes with Chronograf & Kapacitor pre-installed.** 
 
 It gives you a nice InfluxDB admin interface for managing your users, databases,
 data retention settings, and lets you peek inside the database using the
@@ -15,7 +15,7 @@ Data Explorer.
 
 ## Installation
 
-The installation is changed due to the original being scrapped.
+`! NOTE !` The installation is changed due to the original being scrapped.
 
 **Note-repositorie**: This app is now a fork and moved over to another repositorie.
 
@@ -117,7 +117,7 @@ Adding this option to the add-on configuration allows you to disable
 authentication on the Web Terminal by setting it to `true` and leaving the
 username and password empty.
 
-**Note**: _We STRONGLY suggest, not to use this, even if this add-on is
+**Note**: _It is STRONGLY suggested, not to use this, even if this add-on is
 only exposed to your internal network. USE AT YOUR OWN RISK!_
 
 ## Integrating into Home Assistant
@@ -164,46 +164,34 @@ Full details of the Home Assistant integration can be found here:
   not support having SSL on InfluxDB. This limitation is caused by
   Chronograf and we are still looking into a proper solution for this.
 
-## Changelog & Releases
+## Releases and Changelog
 
-This repository keeps a change log using [GitHub's releases][releases]
-functionality.
+This repository wont be updated. No change logs.
+
 
 Releases are based on [Semantic Versioning][semver], and use the format
 of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
-- `MAJOR`: Incompatible or major changes.
-- `MINOR`: Backwards-compatible new features and enhancements.
-- `PATCH`: Backwards-compatible bugfixes and package updates.
 
-## Support
 
-Got questions?
+## HOW TO FIND INFORMATION
 
-You have several options to get them answered:
-
-- The [Home Assistant Community Add-ons Discord chat server][discord] for add-on
-  support and feature requests.
-- The [Home Assistant Discord chat server][discord-ha] for general Home
-  Assistant discussions and questions.
 - The Home Assistant [Community Forum][forum].
-- Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
 
-You could also [open an issue here][issue] GitHub.
+## AUTHORS & CONTRIBUTORS
 
-## Authors & contributors
-
+This is a fork to keep it up and running. Not to be deleted or removed without our control.
 The original setup of this repository is by [Franck Nijhof][frenck].
 
 For a full list of all authors and contributors,
 check [the contributor's page][contributors].
 
-## License
+## LICENCE
 
 MIT License
 
-Copyright (c) 2018-2025 Franck Nijhof
+Copyright (c) 2018-2025 Created by Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
