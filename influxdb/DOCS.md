@@ -4,7 +4,8 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![github](https://img.shields.io/badge/REPOSITORY-KIDNORswe107C10,svg?style=plastic&logo=github)
-!(https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+
+![test](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 ## InfluxDB 
 is an open source time series database optimized for high-write-volume.
