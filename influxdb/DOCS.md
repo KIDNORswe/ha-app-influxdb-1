@@ -2,8 +2,7 @@
 
 `! NOTE !` The original add-on has been scrapped and will no longer be maintained. 
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![github](https://img.shields.io/badge/REPOSITORY-KIDNORswe107C10,svg?style=plastic&logo=github)
+![github](https://img.shields.io/badge/REPOSITORY_KIDNORswe107C10,svg?style=plastic&logo=github)
 
 ![test](https://img.shields.io/badge/DATEABASE-INFLUXDB-brightgreen?style=for-the-badge)
 
