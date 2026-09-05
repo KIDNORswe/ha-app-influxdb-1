@@ -1,6 +1,6 @@
 # APP FOR HA: InfluxDB v 1 (Norrväna)
 
-[![github](https://img.shields.io/badge/REPOSITORY-KIDNORswe107C10,svg?style=plastic&logo=github)]([https://](https://github.com/KIDNORswe/ha-app-influxdb-1)
+![github](https://img.shields.io/badge/REPOSITORY-KIDNORswe107C10,svg?style=plastic&logo=github)([https://](https://github.com/KIDNORswe/ha-app-influxdb-1)
 
 `! NOTE !` The original add-on has been scrapped and will no longer be maintained. 
 
