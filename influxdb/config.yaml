@@ -1,10 +1,9 @@
 ---
 name: InfluxDB
-version: 5.0.3
+version: "5.0.4"
 slug: influxdb-norrvana
 description: NOTE! SPECIAL APP SETUP FOR NORRVANA ONLY. HA original app discrapped in August 2026. Scalable datastore for metrics, events, and real-time analytics. Influx DB version 1.8.5
 url: https://github.com/KIDNORswe/ha-app-influxdb-1
-image: ghcr.io/KIDNORswe/ha-app-influxdb-1/{arch}
 codenotary: codenotary@frenck.dev
 ingress: true
 ingress_port: 1337
