@@ -41,6 +41,8 @@ Explorer.
 
 [:books: Read the full add-on documentation][docs]
 
+! IMPORTANT ! This is a fork from a previoius repo created by Franck Nijhof for the HA community. I have copied the repo to disconnect me from being depended or affected by their changes. Using this repo is on your own responsiblity. No other creator or owner of this repo does not take responsiblity for any damage or netative cause to your system, data or setup.
+
 ## License
 
 MIT License
